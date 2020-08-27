@@ -1,7 +1,7 @@
 #Global string variables
 
 BASE_URL = "https://www.eyeem.com/"
-EMAIL = "test94771185@gmail.com"
+EMAIL = "test94771186@gmail.com"
 PASSWORD = "test_12345678!"
 
 #xpath values
