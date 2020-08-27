@@ -1,5 +1,5 @@
 # Selenium automated test - EyeEm Signup
-An automated test using Selenium and Python to test the signup flow of www.eyeem.com.
+An automated test using Selenium and Python to test the buyer signup flow on www.eyeem.com.
 
 ### File structure
 
